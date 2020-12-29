@@ -1,3 +1,7 @@
+---
+title: Homepage
+---
+
 # My New Title 
 
 ## Welcome to GitHub Pages
