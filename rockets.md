@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Rockets"
-permalink: /about/rockets/
+permalink: /rockets/
 ---
+
 # Rockets  
 Welcome to freestatelabs!  Here is some discussion about `rockets`.
