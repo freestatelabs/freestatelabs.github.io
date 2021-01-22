@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-
 markdown: kramdown
-#name: Free State Labs
 url: "https://freestatelabs.github.io"
 title: Free State Labs
-#description: Free State Labs Github Page
-logo: /assets/img/logo.png
+logo: /assets/fsl-logo.svg

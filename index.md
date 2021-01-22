@@ -8,5 +8,6 @@ I'm a mechanical engineer with special interests in structural dynamics, robotic
 
 Feel free to contact me at [ryan@freestatelabs.com](mailto:ryan@freestatelabs.com). My code is hosted on [Github](https://github.com/freestatelabs), and I'm also sometimes active on [Twitter](https://twitter.com/free_state_labs).
 
-Current projects:
-* [`rockets`](https://freestatelabs.github.io/rockets) 
+I'm currently working on a few robotics/controls projects:
+* [rockets](/rockets/overview)
+
