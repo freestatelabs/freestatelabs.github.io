@@ -1,6 +1,7 @@
 ---
 layout: default
 use_math: true
+permalink: /rockets/introduction.html
 ---
 
 # `rockets`
