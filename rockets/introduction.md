@@ -5,7 +5,7 @@ use_math: true
 
 # `rockets`
 
-<small>[<< Back: Overview](overview) | [Next: Physics >>](physics) </small>
+<small>[<< Back: Overview](/rockets) | [Next: Physics >>](physics) </small>
 
 ## Introduction
 
