@@ -4,7 +4,7 @@ layout: default
 
 # `rockets`
 
-<small>[Next: Introduction >>](/rockets/rockets/introduction)</small>   
+<small>[Next: Introduction >>](introduction)</small>   
 
 `rockets` is a test-bed and 2D simulation of landing rockets using optimal control techniques.  The simulation is written in [Julia](https://www.julialang.org) and source code is located on [Github](https://www.github.com/freestatelabs/rockets).  
 
