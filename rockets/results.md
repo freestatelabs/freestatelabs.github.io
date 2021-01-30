@@ -23,6 +23,8 @@ A couple of notes on this result:
 * When making horizontal position adjustments, the rocket experiences large variations in vertical angle, which are undesirable from a flight safety perspective
 * The LQR controller weights need additional tuning to provide a smoother flight
 
+**Update (29 Jan 2021)**: I recently found some footage from [Masten Space](https://twitter.com/mastenspace) that shows maneuvering that looks similar to my simulation.  This can be seen around the 27s mark in [this](https://www.youtube.com/watch?v=oaXW5TaFwAE) video, at the 25s mark in [this](https://www.youtube.com/watch?v=qRFsGhti_D8) one, and on their [homepage](https://masten.aero/) background video as well.  Perhaps my simulation isn't too far off the mark. 
+
 ### Landing from Inverted Start 
 
 One question I had when developing the linearized set of equations for the LQR  controller was this: since I used the small-angle approximation to make the controller, how robust would the controller be to large variations in the rocket angle?  I wasn't even certain that the rocket would fly correctly at all.
