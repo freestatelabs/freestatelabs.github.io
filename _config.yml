@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 url: "https://freestatelabs.github.io"
 title: Free State Labs
