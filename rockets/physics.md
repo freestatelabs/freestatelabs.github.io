@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Physics
+nav_order: 2
+parent: Rockets
 use_math: true
 ---
  

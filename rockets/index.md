@@ -1,12 +1,15 @@
 ---
 layout: default 
+title: Rockets
+nav_order: 1
+has_children: true
 ---
 
 # `rockets`
 
 <small>[Next: Introduction >>](introduction)</small>   
 
-`rockets` is a test-bed and 2D simulation of landing rockets using optimal control techniques.  The simulation is written in [Julia](https://www.julialang.org) and source code is located on [Github](https://www.github.com/freestatelabs/rockets).  
+`rockets` is a test-bed and 2D simulation of landing rockets using optimal control techniques.  The simulation is written in [Julia](https://www.julialang.org) and source code is located on [GitHub](https://www.github.com/freestatelabs/rockets).  
 
 ![rocky-landing](../assets/rocky-landing.gif "Rocky Landing"){:height="300px"} 
 

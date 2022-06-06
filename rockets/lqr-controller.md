@@ -1,6 +1,9 @@
 ---
 layout: default
 use_math: true
+parent: Rockets
+title: LQR Controller
+nav_order: 3
 ---
 
 

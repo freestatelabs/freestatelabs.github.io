@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Simulation
+parent: Rockets
+nav_order: 4
 ---
 
 # `rockets`

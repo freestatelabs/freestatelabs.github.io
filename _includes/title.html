@@ -1,0 +1,11 @@
+{% if site.logo %}
+  <div class="site-logo"></div>
+  {{ site.title }}
+{% else %}
+  {{ site.title }}
+{% endif %}
+
+<!-- Enable support for rendering mathematical expressions via MathJax-->
+{% if page.use_math %}
+{% include _mathjax_support.html %}
+{% endif %}

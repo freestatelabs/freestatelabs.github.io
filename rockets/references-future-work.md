@@ -1,5 +1,8 @@
 ---
 layout: default
+title: References
+parent: Rockets
+nav_order: 6
 ---
 
 # `rockets`

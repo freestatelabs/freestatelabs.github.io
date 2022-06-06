@@ -1,6 +1,7 @@
-#theme: jekyll-theme-minimal
 remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 url: "https://freestatelabs.github.io"
 title: Free State Labs
-logo: /assets/fsl-logo.svg
+#logo: /assets/fsl-logo.svg
+color_scheme: light
+footer_content: "Copyright &copy; 2022 ryan@freestatelabs"

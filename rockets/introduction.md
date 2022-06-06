@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Introduction
+nav_order: 1
+parent: Rockets
 use_math: true
 permalink: /rockets/introduction.html
 ---

@@ -1,6 +1,9 @@
 --- 
 layout: default
 use_math: true
+title: Results
+parent: Rockets
+nav_order: 5
 ---
 
 # `rockets`
