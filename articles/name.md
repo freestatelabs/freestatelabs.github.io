@@ -41,7 +41,7 @@ though I'll try not to let perfect be the enemy of good enough.
 ### I have a stressful day job and I probably won't update this page frequently enough for my liking
 but any progress in a reasonable direction is better than no progress and no direction. 
 
-### Never trust someone who refers to themselves as an expert
+### Never trust someone who personally refers to themselves as an expert
 and please don't make any such assumptions about me or about my work - if you found this little site on the vast internet, it's quite likely you know far more about these subjects than I do.
 
 ### I love discussion and debate
