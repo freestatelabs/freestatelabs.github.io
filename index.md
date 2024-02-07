@@ -12,6 +12,12 @@ I'm a mechanical engineer with special interests in structural dynamics, robotic
 
 Feel free to contact me at [ryan@freestatelabs.com](mailto:ryan@freestatelabs.com). My code is hosted on [GitHub](https://github.com/freestatelabs).
 
-## Past Projects
+## Projects
 ### [`rockets`](/rockets/)
 A 2D, 3DOF simulation of landing rockets using thrust-vectoring directed by an optimal controller.
+
+### [`Wired.jl`]() - *in development* 
+ A highly optimized Biot-Savart law integrator for arbitrary geometries in 3D space.
+
+### [`Wired.jl` Benchmarks](/wired-benchmarks/)
+Performance benchmarks for [`Wired.jl`](), written in Julia, C, Fortran, and Python.
