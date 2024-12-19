@@ -16,7 +16,7 @@ Feel free to contact me at [ryan@freestatelabs.com](mailto:ryan@freestatelabs.co
 ### [`rockets`](/rockets/)
 A 2D, 3DOF simulation of landing rockets using thrust-vectoring directed by an optimal controller.
 
-### [`Wired.jl`]() - *in development* 
+### [`Wired.jl`](https://github.com/freestatelabs/Wired.jl) - *in development* 
  A highly optimized Biot-Savart law integrator for arbitrary geometries in 3D space.
 
 ### [`Wired.jl` Benchmarks](/wired-benchmarks/)
