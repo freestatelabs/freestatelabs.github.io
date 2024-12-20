@@ -21,3 +21,6 @@ A 2D, 3DOF simulation of landing rockets using thrust-vectoring directed by an o
 
 ### [`Wired.jl` Benchmarks](/wired-benchmarks/)
 Performance benchmarks for [`Wired.jl`](), written in Julia, C, Fortran, and Python.
+
+### [`SHEPHERD`](https://github.com/freestatelabs/SHEPHERD) - *in development*
+Open-source mechanical FEA that *just works*.
